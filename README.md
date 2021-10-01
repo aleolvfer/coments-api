@@ -18,9 +18,9 @@ Tenha instalado em sua maquina o Git e Node.js 10.0.0 (ou superior). Caso prefir
 yarn
 ```
 ou
-```
+
 npm install
 
-
+```
 
 3. Altere as informações de acesso ao banco MySQL no arquivo conexao.js.
