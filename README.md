@@ -21,7 +21,6 @@ ou
 
 ```
 npm install
-
 ```
 
 3. Altere as informações de acesso ao banco MySQL no arquivo conexao.js.
